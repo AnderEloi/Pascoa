@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pascoa no Mundo</title>
+  <style>
+    body {
+      background-color: #FFDEAD;
+    }
+    h1 {
+      color: #381610;
+      text-size-adjust: 50px;
+    }
+    h2 {
+      color: #8B4513;
+      text-shadow: 2px 2px 4px #381610;
+    }
+    p {
+      color: black;
+    }
+    img {
+      display: block;
+      margin:auto;
+      width: 300px;
+      height: 200px;
+    }
+  </style>
+</head>
+<body>
+  <h1>A PASCOA</h1>
+  <h1> O que é a Páscoa? </h1>
+  <p>A Páscoa pode ser considerada a grande festa cristã. Nessa data, é celebrada a ressurreição de Jesus Cristo, mártir da religião. No entanto, a Páscoa já existia desde a Antiguidade, embora com outro significado. Até hoje, a Páscoa simboliza coisas diferentes para judeus e cristãos. O feriado religioso acontece sempre em um domingo e vai muito além dos ovos de chocolate.</p>
+  <hr>
+  <img src="PASCOA2.PNG">
+  <h2>A Páscoa Segundo a Bíblia</h2>
+  <p>A Páscoa Cristã é uma das festividades mais importantes para o cristianismo, pois representa a ressurreição de Jesus Cristo, o filho de Deus. A data é comemorada anualmente no primeiro domingo após a primeira lua cheia que ocorre no início da primavera (no Hemisfério Norte) e do outono (no Hemisfério Sul). A data é sempre entre os dias 22 de março e 25 de abril.</p>
+  <hr>
+  <img src="espanha.png">
+  <h2>A Páscoa na Espanha</h2>
+  <p>Semana Santa de Páscoa ou Semana Santa é uma das festas religiosas mais importantes da Espanha e é celebrada com grande entusiasmo em todo o país. Durante os dias que antecedem à Páscoa, procissões religiosas desfilam pelas ruas das cidades espanholas, levando imagens religiosas em palanques decorados com flores, velas e músicas. As procissões são organizadas por grupos religiosos locais conhecidos como cofradías, compostos por membros da comunidade. Cada cofradía tem sua própria figura com representações de Jesus ou da Virgem Maria, geralmente carregadas por “nazarenos“, membros da irmandade que usam túnicas de cores vivas e capuzes pontiagudos. A música é uma parte importante da Semana Santa, e a procissão é acompanhada por bandas que tocam música triste e solene. A procissão geralmente ocorre à noite, e as ruas são iluminadas com velas e lanternas, criando uma atmosfera misteriosa e solene.</p>
+  <hr>
+  <img src="ucrania.png">
+  <h2>A Páscoa na Ucrânia</h2>
+  <p>A Páscoa é uma das festas mais importantes da Ucrânia e é celebrada com muitas tradições e cerimônias. Uma das tradições mais famosas é a decoração de ovos, também conhecida como pysanky. A arte de decorar ovos tem uma longa história na Ucrânia e é uma forma única de expressão cultural. Os ovos são cuidadosamente decorados e pintados à mão com padrões tradicionais como flores, estrelas, cruzes e animais, usando corantes naturais de várias cores. O processo de pintura é trabalhoso e leva horas. Os ovos são usados para várias atividades, como presentes para amigos e familiares, enfeites de mesa de Páscoa e até jogos de ovos.</p>
+  <hr>
+  <img src="mexico.png">
+  <h2>A Páscoa no México</h2>
+  <p>No México, as celebrações da Páscoa são uma mistura de tradições religiosas e culturais, refletidas em várias atividades e práticas durante a Semana Santa. Uma das tradições mais importantes, a Semana Santa começa no Domingo de Ramos e termina no Domingo de Páscoa. Muitas pessoas participam das procissões e missas em suas igrejas locais durante a semana. As procissões acontecem em muitas cidades do México e geralmente retratam cenas da Paixão de Cristo. Outra tradição popular é a queima de Judas no sábado antes da Páscoa. Essa tradição envolve fazer uma figura de palha ou papel machê representando Judas Iscariotes, o traidor de Jesus. O boneco então é queimado publicamente para simbolizar a condenação pelas ações negativas.</p>
+  <hr>
+  <img src="italia.png">
+  <h2>A Páscoa na Itália</h2>
+  <p>A celebração da Páscoa na Itália está profundamente enraizada na tradição religiosa católica, e muitas das atividades e práticas associadas a ela são praticadas há séculos. Assim como no México, por exemplo, uma das tradições mais importantes é a Settimana Santa (Semana Santa). Nessa semana, as igrejas em todo o país realizam procissões e missas especiais em comemoração à Paixão e Ressurreição de Cristo. As procissões incluem fiéis carregando estátuas pelas ruas, muitas vezes acompanhados por músicos tocando instrumentos de corda ou sopro. Outra importante tradição italiana é a Pasquetta (segunda-feira de Páscoa), que é um feriado nacional no qual as famílias aproveitam para fazer piqueniques ao ar livre. Um prato típico da ocasião é a torta pasqualina, uma saborosa torta recheada com espinafre, ovos e ricota.</p>
+  <hr>
+  <img src="brasil.png">
+  <h2>A Páscoa no Brasil</h2>
+  <p>A Semana Santa tem início no Domingo de Ramos, que marcou o retorno de Jesus à cidade Jerusalém. Durante essa semana, outro dia em destaque é a Quinta-feira Santa, quando aconteceu a Última Ceia de Cristo com seus discípulos. É tradição nesse dia praticar o rito de lava-pés que relembra a ação de Jesus em lavar os pés de seus discípulos. A sexta-feira Santa relembra a crucificação e morte de Cristo no Calvário, que aconteceu após ele ter sido preso no Getsêmani vítima da traição de Judas Iscariotes, conforme a narrativa bíblica. O dia após a morte de Cristo é conhecido como Sábado de Aleluia e, por fim, o Domingo de Páscoa, que representa o dia da ressurreição de Cristo.</p>
+  <hr>
+  <h2>Lorem</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <i>But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</i>
+ <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+</body>
+</html>
